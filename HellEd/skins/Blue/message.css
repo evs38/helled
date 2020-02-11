@@ -1,0 +1,93 @@
+body {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+	margin-left: 0;
+	margin-top: 0;
+	margin-right: 0;
+	margin-bottom: 0;
+	background-color: #FFFFFF;
+	color: #000000;
+} 
+
+.header {
+	background-color: #FFFFFF;
+	width: 100%;
+}
+
+.headerkey {
+	font-family: "MS Sans Serif";
+	font-size: 8pt;
+	font-weight: bold;
+	color: #6f9dd9;
+	width: 75;
+}
+
+.headervalue {
+	font-family: "MS Sans Serif";
+	font-size: 8pt;
+	font-weight: normal;
+	color: #000000;
+}
+
+.Tearline {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+	color: #D2691E;
+}				
+.Origin {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+	color: #9400D3;
+}
+.Kludge {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+	color: #DC143C;
+}
+.EvenQuote {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+	color: #00008B;
+}
+.OddQuote {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+	color: #228B22;
+}
+b {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+}
+i {
+	font-family: "Lucida Console";
+	font-size: 9t;
+}
+u {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+}
+.r {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+	color: #FFFFFF;
+	background-color: #335EA8;
+} 
+a:Link {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+}
+a:Visited {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+}
+a:Active {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+}	
+a:Hover {
+	font-family: "Lucida Console";
+	font-size: 10pt;
+}
+img {
+	border: 0px;
+}

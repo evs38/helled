@@ -1,0 +1,19 @@
+Area %Area
+OName %OName
+OAddr %OAddr
+DName %QOName
+DAddr %QOAddr
+Subject %QSubject
+ODateTime %ODateTime
+Attributes %Attributes
+REPLY: %QMSGID
+RealName: 
+Hello, hello turn your radio on. Is there anybody out there? Help me sing my song. (The Bates - Hello)
+
+%Cursor%QQKludges
+%Quote
+%QQEOMKludges
+
+This is the end, beautiful friend
+This is the end, my only friend, the end...(The Doors - The End)
+--- %Tearline

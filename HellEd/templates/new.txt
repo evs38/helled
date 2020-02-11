@@ -1,0 +1,16 @@
+Area %Area
+OName %OName
+OAddr %OAddr
+DName %DName
+DAddr %DAddr
+Subject %Subject
+ODateTime %ODateTime
+Attributes %Attributes
+RealName: 
+Hello, hello turn your radio on. Is there anybody out there? Help me sing my song. (The Bates - Hello)
+
+%Cursor
+
+This is the end, beautiful friend
+This is the end, my only friend, the end...(The Doors - The End)
+--- %Tearline

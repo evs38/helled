@@ -1,0 +1,9 @@
+﻿Area NETMAIL
+OName %OName
+OAddr %OAddr
+DName AreaFix
+DAddr 2:5030/1520
+Subject xxxxxx
+ODateTime %ODateTime
+Attributes pvt loc
+-%QArea

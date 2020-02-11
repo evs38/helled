@@ -1,0 +1,23 @@
+﻿Area 
+OName %OName
+OAddr %OAddr
+DName All
+DAddr %DAddr
+Subject [FWD] %QSubject
+ODateTime %ODateTime
+Attributes %Attributes
+RealName: 
+=============================================================================
+* Переслал %OName
+* Область: %QArea
+* От:      %QOName <%QOAddr> (%QODateTime)
+* Кому:    %QDName
+* Тема:    %QSubject
+=============================================================================
+%QText
+=============================================================================
+%Cursor
+
+This is the end, beautiful friend
+This is the end, my only friend, the end...(The Doors - The End)
+--- %Tearline

@@ -1,0 +1,45 @@
+﻿#User
+name Trooper
+name "Alexey Bezugly"
+address 2:5030/1520.9
+address 144:38/9
+#Tosser
+tosser_name HPT
+tosser_config_path C:\FTN\hpt\config\areas.cfg
+tosser_path C:\FTN\hpt\scan.vbs
+tosser_onsend 1
+tosser_onexit 0
+scanmsgbase_onstart 1
+echotoss_log_path C:\FTN\logs\echotoss.log
+#Mailer
+mailer_path C:\FTN\radius\radius.exe
+mailer_onexit 0
+#Templates
+kludge "RealName: Alexey Bezugly"
+tearline "_http://helled.spb.ru_ _icq:296740262_ _trooperu_gmail_com_"
+origin "Omnicorp is all knowing"
+origin "Keep the Oppressor opressing"
+origin "The meek shall inherit Zilch"
+origin "Have you had your Hydergine today"
+origin "Kemo City a nice place to visit"
+#Skins
+skin Caramel
+#Languages
+language Russian
+#Lists
+nodelist c:\FTN\nodelist\NODELIST.097
+nodelist c:\FTN\nodelist\NET38.91
+nodelist c:\FTN\nodelist\PNT38.91
+#Messages
+delete_messages 1
+#Editor
+string_length 79
+#Areas
+area_select_mode 2
+area_name RU.FTN.WINSOFT
+#General
+minimize_to_tray 1
+#Encodings
+config_encoding 1251
+messages_encoding 866
+replace "Н H"

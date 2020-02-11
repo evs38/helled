@@ -1,0 +1,308 @@
+﻿<XtraSerializer version="1.0" application="TreeList">
+  <property name="#LayoutVersion" />
+  <property name="RowHeight">-1</property>
+  <property name="CustomizationRowCount">7</property>
+  <property name="DragExpandDelay">1000</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="PreviewLineCount">1</property>
+  <property name="BorderStyle">Default</property>
+  <property name="OptionsMenu" isnull="true" iskey="true">
+    <property name="EnableFooterMenu">false</property>
+  </property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="ShowButtonMode">ShowAlways</property>
+  <property name="Columns" iskey="true" value="8">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">120</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">20</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">Name</property>
+      <property name="Name">tlcName</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowFocus">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption">Название</property>
+      <property name="Visible">false</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">505</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">20</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">Description</property>
+      <property name="Name">tlcDescription</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowFocus">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption">Описание</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">78</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">20</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">Path</property>
+      <property name="Name">tlcPath</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowFocus">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption">Путь</property>
+      <property name="Visible">false</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">78</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">20</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">Address</property>
+      <property name="Name">tlcAddress</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowFocus">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption">Ваш адрес</property>
+      <property name="Visible">false</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Width">76</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">20</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">BaseType</property>
+      <property name="Name">tlcBaseType</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowFocus">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption">Тип базы</property>
+      <property name="Visible">false</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Width">77</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">20</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">AreaType</property>
+      <property name="Name">tlcAreaType</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="ReadOnly">true</property>
+        <property name="AllowFocus">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption">Тип области</property>
+      <property name="Visible">false</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Width">170</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">20</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">Node</property>
+      <property name="Name">tlcNode</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="ShowInCustomizationForm">false</property>
+        <property name="AllowMove">false</property>
+        <property name="AllowSize">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption" />
+      <property name="Visible">false</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Width">73</property>
+      <property name="Tag" isnull="true" />
+      <property name="SortOrder">None</property>
+      <property name="ImageIndex">-1</property>
+      <property name="ImageAlignment">Near</property>
+      <property name="UnboundType">Object</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="MinWidth">63</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="SummaryFooter">None</property>
+      <property name="CustomizationCaption" />
+      <property name="FieldName">Mark</property>
+      <property name="Name">tlcMark</property>
+      <property name="SortIndex">-1</property>
+      <property name="OptionsColumn" isnull="true" iskey="true">
+        <property name="AllowFocus">false</property>
+        <property name="AllowSort">false</property>
+      </property>
+      <property name="Caption">Флаг</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="ColumnEditName" />
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Fixed">None</property>
+    </property>
+  </property>
+  <property name="LayoutVersion" />
+  <property name="TreeLineStyle">Percent50</property>
+  <property name="TreeLevelWidth">18</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="BestFitVisibleOnly">false</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="KeyFieldName">ID</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="EnableAppearanceEvenRow">true</property>
+    <property name="EnableAppearanceOddRow">true</property>
+    <property name="ShowHorzLines">false</property>
+    <property name="ShowIndicator">false</property>
+  </property>
+  <property name="PreviewFieldName" />
+  <property name="ParentFieldName">ParentID</property>
+  <property name="CustomizationFormBounds">@3,X=606@3,Y=195@3,Width=216@3,Height=178</property>
+  <property name="RootValue" type="System.Int32">0</property>
+  <property name="ImageIndexFieldName">ImageIndex</property>
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="AutoMoveRowFocus">true</property>
+    <property name="ResizeNodes">false</property>
+    <property name="MoveOnEdit">false</property>
+    <property name="ExpandNodeOnDrag">false</property>
+    <property name="ShowToolTips">false</property>
+  </property>
+</XtraSerializer>

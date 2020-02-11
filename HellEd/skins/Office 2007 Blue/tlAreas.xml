@@ -1,0 +1,134 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="FocusedRow" iskey="true" value="FocusedRow">
+    <property name="BackColor">49, 106, 197</property>
+    <property name="ForeColor">White</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="Row" iskey="true" value="Row">
+    <property name="BackColor">White</property>
+    <property name="ForeColor">Black</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="GroupFooter" iskey="true" value="GroupFooter">
+    <property name="BackColor">193, 216, 247</property>
+    <property name="ForeColor">Black</property>
+    <property name="BorderColor">193, 216, 247</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+    </property>
+  </property>
+  <property name="Preview" iskey="true" value="Preview">
+    <property name="BackColor">249, 252, 255</property>
+    <property name="ForeColor">88, 129, 185</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="SelectedRow" iskey="true" value="SelectedRow">
+    <property name="BackColor">69, 126, 217</property>
+    <property name="ForeColor">White</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="GroupButton" iskey="true" value="GroupButton">
+    <property name="BackColor">193, 216, 247</property>
+    <property name="ForeColor">Black</property>
+    <property name="BorderColor">193, 216, 247</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+    </property>
+  </property>
+  <property name="FooterPanel" iskey="true" value="FooterPanel">
+    <property name="BackColor2">132, 171, 228</property>
+    <property name="BackColor">221, 236, 254</property>
+    <property name="ForeColor">Black</property>
+    <property name="BorderColor">221, 236, 254</property>
+    <property name="GradientMode">Vertical</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+    </property>
+  </property>
+  <property name="OddRow" iskey="true" value="OddRow">
+    <property name="BackColor">White</property>
+    <property name="ForeColor">Black</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="EvenRow" iskey="true" value="EvenRow">
+    <property name="BackColor">231, 242, 254</property>
+    <property name="ForeColor">Black</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="HorzLine" iskey="true" value="HorzLine">
+    <property name="BackColor">99, 127, 196</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+  </property>
+  <property name="Empty" iskey="true" value="Empty">
+    <property name="BackColor">White</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+  </property>
+  <property name="FocusedCell" iskey="true" value="FocusedCell">
+    <property name="BackColor">White</property>
+    <property name="ForeColor">Black</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="VertLine" iskey="true" value="VertLine">
+    <property name="BackColor">99, 127, 196</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+  </property>
+  <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+    <property name="BackColor">106, 153, 228</property>
+    <property name="ForeColor">208, 224, 251</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+    </property>
+  </property>
+  <property name="HeaderPanel" iskey="true" value="HeaderPanel">
+    <property name="BackColor2">132, 171, 228</property>
+    <property name="BackColor">221, 236, 254</property>
+    <property name="ForeColor">Black</property>
+    <property name="BorderColor">221, 236, 254</property>
+    <property name="GradientMode">Vertical</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+    </property>
+  </property>
+  <property name="TreeLine" iskey="true" value="TreeLine">
+    <property name="BackColor">59, 97, 156</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+  </property>
+</XtraSerializer>

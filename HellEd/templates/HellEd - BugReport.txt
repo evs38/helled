@@ -1,0 +1,16 @@
+Area NETMAIL
+OName %OName
+OAddr %OAddr
+DName Trooper
+DAddr 2:5030/1520.9
+Subject HellEd %Version - BugReport
+ODateTime %ODateTime
+Attributes loc
+RealName: 
+Hello, hello turn your radio on. Is there anybody out there? Help me sing my song. (The Bates - Hello)
+
+%Cursor
+
+This is the end, beautiful friend
+This is the end, my only friend, the end...(The Doors - The End)
+--- %Tearline

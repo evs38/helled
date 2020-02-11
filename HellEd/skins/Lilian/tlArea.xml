@@ -1,0 +1,137 @@
+﻿<XtraSerializer version="1.0" application="Appearances">
+  <property name="Preview" iskey="true" value="Preview">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseFont">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="Font">Verdana, 7.5pt</property>
+    <property name="ForeColor">104, 130, 134</property>
+    <property name="BackColor">250, 250, 240</property>
+  </property>
+  <property name="HorzLine" iskey="true" value="HorzLine">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">172, 197, 180</property>
+  </property>
+  <property name="GroupFooter" iskey="true" value="GroupFooter">
+    <property name="BorderColor">215, 234, 221</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">215, 234, 221</property>
+  </property>
+  <property name="OddRow" iskey="true" value="OddRow">
+    <property name="BorderColor">242, 244, 236</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">242, 244, 236</property>
+  </property>
+  <property name="VertLine" iskey="true" value="VertLine">
+    <property name="BorderColor">117, 136, 122</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBorderColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">172, 197, 180</property>
+  </property>
+  <property name="Row" iskey="true" value="Row">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">242, 244, 236</property>
+  </property>
+  <property name="SelectedRow" iskey="true" value="SelectedRow">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">159, 201, 207</property>
+  </property>
+  <property name="FocusedRow" iskey="true" value="FocusedRow">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">White</property>
+    <property name="BackColor">129, 171, 177</property>
+  </property>
+  <property name="TreeLine" iskey="true" value="TreeLine">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">117, 136, 122</property>
+  </property>
+  <property name="Empty" iskey="true" value="Empty">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor2">White</property>
+    <property name="BackColor">242, 244, 236</property>
+  </property>
+  <property name="HideSelectionRow" iskey="true" value="HideSelectionRow">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">104, 130, 134</property>
+    <property name="BackColor">186, 211, 215</property>
+  </property>
+  <property name="FocusedCell" iskey="true" value="FocusedCell">
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">White</property>
+  </property>
+  <property name="HeaderPanel" iskey="true" value="HeaderPanel">
+    <property name="BorderColor">211, 226, 216</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">211, 226, 216</property>
+  </property>
+  <property name="EvenRow" iskey="true" value="EvenRow">
+    <property name="BorderColor">221, 227, 245</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">221, 227, 245</property>
+  </property>
+  <property name="FooterPanel" iskey="true" value="FooterPanel">
+    <property name="BorderColor">202, 221, 208</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseForeColor">true</property>
+      <property name="UseBorderColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="ForeColor">Black</property>
+    <property name="BackColor">202, 221, 208</property>
+  </property>
+  <property name="GroupButton" iskey="true" value="GroupButton">
+    <property name="BorderColor">178, 209, 188</property>
+    <property name="Options" isnull="true" iskey="true">
+      <property name="UseBorderColor">true</property>
+      <property name="UseBackColor">true</property>
+    </property>
+    <property name="BackColor">178, 209, 188</property>
+  </property>
+</XtraSerializer>

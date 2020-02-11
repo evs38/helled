@@ -1,0 +1,10 @@
+Area %Area
+OName %QOName
+OAddr %QOAddr
+DName %QDName
+DAddr %QDAddr
+Subject %QSubject
+ODateTime %QODateTime
+Attributes %QAttributes
+%QKludges
+%QText
